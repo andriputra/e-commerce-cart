@@ -27,3 +27,5 @@ To run the tests:
   npm test
 ```
 
+### on Vercel deploy 
+please visit the link : https://e-commerce-cart-ten.vercel.app/
