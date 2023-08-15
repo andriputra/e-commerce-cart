@@ -8,7 +8,7 @@
 To run the app, follow these steps.
 
 1. Ensure that [NodeJS](http://nodejs.org/) is installed.
-2. Install [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable/).
+2. Install [npm](https://www.npmjs.com/package/download)
 3. From the project folder, execute the following commands:
 
 To install dependencies:
